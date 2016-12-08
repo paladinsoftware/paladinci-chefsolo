@@ -1,7 +1,7 @@
 DEPENDENCIES
   openssh
   ssh-keys (~> 1.2.7)
-  ssh_known_hosts (~> 4.0.0)
+  ssh_known_hosts (~> 2.0.0)
   user
 
 GRAPH
@@ -10,6 +10,8 @@ GRAPH
     compat_resource (>= 12.14.3)
   openssh (2.1.0)
     iptables (>= 1.0)
+  partial_search (1.0.9)
   ssh-keys (1.2.7)
-  ssh_known_hosts (4.0.0)
+  ssh_known_hosts (2.0.0)
+    partial_search (>= 0.0.0)
   user (0.6.0)

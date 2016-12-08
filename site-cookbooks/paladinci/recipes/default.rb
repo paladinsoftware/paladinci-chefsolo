@@ -18,5 +18,5 @@ include_recipe 'user::data_bag'
 include_recipe 'openssh'
 
 include_recipe 'ssh-keys'
-#include_recipe 'ssh_known_hosts'
+include_recipe 'ssh_known_hosts'
 
