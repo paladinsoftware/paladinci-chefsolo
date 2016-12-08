@@ -1,6 +1,7 @@
 DEPENDENCIES
   openssh
   ssh-keys (~> 1.2.7)
+  ssh_known_hosts (~> 4.0.0)
   user
 
 GRAPH
@@ -10,4 +11,5 @@ GRAPH
   openssh (2.1.0)
     iptables (>= 1.0)
   ssh-keys (1.2.7)
+  ssh_known_hosts (4.0.0)
   user (0.6.0)
