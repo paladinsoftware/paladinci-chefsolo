@@ -1,11 +1,10 @@
 {
 	"id": "paladin",
-	"password": "0cde4c8ef4c77468385dfd2f520abc3f8f93c4fc43476185b8b9f3a68a04972a89669f5bb42c25b1943cf74f239dd004c7a0be98b3d2b7972452c4fee810a185",
+	"password": "$6$5nO8469pyk$QL/JPa7vKXBsZfTT4MUjJo/Tf4Xf3nSSZzxB3x7ra9WlK7oriyHWyvV/OEVePgeZE9mgtnX5fsl31UA26cLs11",
 	"groups": [
 		"sudo"
 	],
 	"ssh_keys": [
 		"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5YcRYQae7+f3NFSIf0jRMlLAvmR0qHajbSs3olWj3uTtliKS4FizUU1O5KogwX8M4WDAT76yqZ/hBAmyD9W/LGDziKRcZDFLrs7nFlJNeFy3XOfVwUSs/R5MMFlg/SOkY/OyfEcDzVbuvKMkuwv2CdsOZpY0M2klCLat94VZB11mIeFaOLhHFqAZA5dkhc1Sbjkxd1Hc4nGEV0UCIm/yEyNnELoBkaxzDzXZ5/mr1nq7Cbj9KH6l0Bmlq632rCKPis1hHBwEo6dIr/eet6gLIiODsq4Vs3en3MoJmxZ0VhuaimOX5B7gg3fu0uAyuL2fF7TVlbmd7FWYGez5p+Av7 oma@Oles-MacBook-Pro.local"
-  ],
-  "action": "create"
+  ]
 }
