@@ -1,0 +1,3 @@
+# paladinci-chefsolo
+
+WIP
